@@ -12,6 +12,7 @@
 
 ## Step-03: Docker Image List: Docker Hub vs GitHub Container Registry 
 - To download the Docker Image from GitHub Container Registry we just need to prefix `ghcr.io/` for the Docker Image from Docker Hub. This is for our StackSimplify 13 Docker Images only.
+
 |S.No| Docker Hub Image  | GitHub Container Image |
 |----| ------------- | ------------- |
 |01| stacksimplify/kubenginx:1.0.0  | ghcr.io/stacksimplify/kubenginx:1.0.0  |

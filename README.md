@@ -31,3 +31,11 @@
 |   |   |
 | stacksimplify/kube-helloworld:1.0.0  | ghcr.io/stacksimplify/kube-helloworld:1.0.0  |
 |   |   |
+| stacksimplify/usermanagement-microservice:1.0.0  | ghcr.io/stacksimplify/usermanagement-microservice:1.0.0  |
+|   |   |
+| stacksimplify/nginxapp2:latest  | ghcr.io/stacksimplify/nginxapp2:latest  |
+|   |   |
+| stacksimplify/nginxapp1:latest  | ghcr.io/stacksimplify/nginxapp1:latest  |
+|   |   |
+| stacksimplify/dockerintro-springboot-helloworld-rest-api:1.0.0-RELEASE  | ghcr.io/stacksimplify/dockerintro-springboot-helloworld-rest-api:1.0.0-RELEASE  |
+|   |   |

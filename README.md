@@ -1,16 +1,16 @@
 # Docker Hub to GitHub Container Registry
 
-## Docker Hub Pull Limits
+## Step-01: Docker Hub Pull Limits
 - Docker Hub limits the number of Docker image downloads (“pulls”) based on the account type of the user pulling the image. 
 - Pull rates limits are based on individual IP address. For anonymous users, the rate limit is set to 100 pulls per 6 hours per IP address. 
 - For authenticated users, it’s 200 pulls per 6 hour period. 
 - Users with a paid Docker subscription get up to 5000 pulls per day.
 - [Docker Pull Limits](https://docs.docker.com/docker-hub/download-rate-limit/)
 
-## GitHub Container Registry Packages
+## Step-02: GitHub Container Registry Packages
 - Link to [GitHub Container Registry Packages](https://github.com/stacksimplify?tab=packages)
 
-## Docker Image List: Docker Hub vs GitHub Container Registry 
+## Step-03: Docker Image List: Docker Hub vs GitHub Container Registry 
 - To download the Docker Image from GitHub Container Registry we just need to prefix `ghcr.io/` for the Docker Image from Docker Hub. This is for our StackSimplify 13 Docker Images only.
 |S.No| Docker Hub Image  | GitHub Container Image |
 |----| ------------- | ------------- |
